@@ -8,6 +8,10 @@ installer, and requires a C compilation environment compatible with Python's
 instead use the appropriate binary installer, available from
 <http://www.bloomberglabs.com/api/libraries/>.
 
+Help version 3.16
+-------------- 
+<https://bloomberg.github.io/blpapi-docs/python/3.16/>
+
 
 Dependencies
 ------------
