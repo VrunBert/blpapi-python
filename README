@@ -9,6 +9,10 @@ Python's `setuptools` package.
 Users are encouraged to install using `pip` directly, as documented in
 <https://www.bloomberg.com/professional/support/api-library>
 
+Useful class reference with examples
+------------
+<https://bloomberg.github.io/blpapi-docs/python/3.16/index.html>
+
 Dependencies
 ------------
 
